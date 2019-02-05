@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Loan" max_length="40" name="x_snc_el_loan" sizeclass="2" type="collection">
+        <element label="Asset" max_length="32" name="asset" reference="alm_asset" type="reference"/>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Borrower" mandatory="true" max_length="32" name="borrower" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Collect at" max_length="40" name="collect_at" type="glide_time"/>
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element choice="3" default="temporary" label="Period" mandatory="true" max_length="40" name="period" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Temporary" sequence="1" value="temporary"/>
+                <element inactive_on_update="false" label="Permanent" sequence="2" value="permanent"/>
+            </choice>
+        </element>
+        <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="3" default="javascript:gs.getProperty('x_snc_el.default.loantype');" label="Type" mandatory="true" max_length="40" name="type" reference="x_snc_el_type" type="reference">
+            <choice/>
+        </element>
+    </element>
+</database>

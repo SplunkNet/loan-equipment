@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="period" table="x_snc_el_loan" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporary</label>
+            <language>en</language>
+            <name>x_snc_el_loan</name>
+            <sequence>1</sequence>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2019-02-04 05:10:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08a204ebdb1f2300c2e82f940596191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2019-02-04 23:26:32</sys_updated_on>
+            <value>temporary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>period</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Permanent</label>
+            <language>en</language>
+            <name>x_snc_el_loan</name>
+            <sequence>2</sequence>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2019-02-04 05:10:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75a204ebdb1f2300c2e82f940596191d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2019-02-04 23:26:28</sys_updated_on>
+            <value>permanent</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>period</element>
+            <name>x_snc_el_loan</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2019-02-04 05:10:32</sys_created_on>
+            <sys_id>71a204ebdb1f2300c2e82f9405961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>period</sys_name>
+            <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+            <sys_update_name>sys_choice_x_snc_el_loan_period</sys_update_name>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2019-02-04 05:10:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

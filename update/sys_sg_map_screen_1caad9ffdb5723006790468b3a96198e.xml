@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen">
+    <sys_sg_map_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Active loans">6af6f833db1723006790468b3a9619ad</data_item>
+        <data_item_table>x_snc_el_loan</data_item_table>
+        <description>Loan equipment, plotted on a map</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="map">48aad9ffdb5723006790468b3a96198b</icon>
+        <info>borrower</info>
+        <location>asset.location</location>
+        <name>Equipment Map</name>
+        <order>20</order>
+        <parent>c9f688efdb1f2300c2e82f94059619aa</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <phone>borrower.mobile_phone</phone>
+        <pin_color>#FF0000</pin_color>
+        <pin_color_type>default</pin_color_type>
+        <roles_override/>
+        <sub_title>asset</sub_title>
+        <sys_class_name>sys_sg_map_screen</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-05 06:13:23</sys_created_on>
+        <sys_id>1caad9ffdb5723006790468b3a96198e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Equipment Map</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_map_screen_1caad9ffdb5723006790468b3a96198e</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-05 06:15:22</sys_updated_on>
+        <tag>state</tag>
+        <tag_background_color>#7d8a8c</tag_background_color>
+        <tag_font_color>#ffffff</tag_font_color>
+        <tag_style/>
+        <title>number</title>
+    </sys_sg_map_screen>
+</record_update>

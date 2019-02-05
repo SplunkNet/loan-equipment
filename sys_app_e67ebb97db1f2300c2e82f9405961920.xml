@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Equipment Loans">2b80c82bdb1f2300c2e82f94059619a5</menu>
+        <name>Equipment Loans</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_el</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_snc_el</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-04 04:52:18</sys_created_on>
+        <sys_id>e67ebb97db1f2300c2e82f9405961920</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-04 05:12:51</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_snc_el.user" name="x_snc_el.user">21ae33d7db1f2300c2e82f940596193e</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

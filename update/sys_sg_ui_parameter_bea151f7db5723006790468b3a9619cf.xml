@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>qr_barcode</input_type>
+        <mandatory>true</mandatory>
+        <multi_select>false</multi_select>
+        <name>Asset tag</name>
+        <order>0</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="Scan to Find">f6a151f7db5723006790468b3a9619ce</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-05 05:34:15</sys_created_on>
+        <sys_id>bea151f7db5723006790468b3a9619cf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Asset tag</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_bea151f7db5723006790468b3a9619cf</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-05 05:36:07</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+</record_update>
