@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Allocate Equipment">359acb98dbe723006790468b3a9619cc</button>
+        <description/>
+        <field_name/>
+        <label>Allocate Equipment</label>
+        <location>top</location>
+        <name>Allocate Equipment</name>
+        <order>1</order>
+        <parent>00c88358dbe723006790468b3a961947</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-07 03:42:48</sys_created_on>
+        <sys_id>065bc3d8dbe723006790468b3a9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Allocate Equipment</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_button_instance_065bc3d8dbe723006790468b3a9619c4</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-07 03:42:48</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

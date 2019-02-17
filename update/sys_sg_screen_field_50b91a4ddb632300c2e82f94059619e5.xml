@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>asset.model.name</data_item_field_name>
+        <hidden>false</hidden>
+        <order>60</order>
+        <screen display_value="Details">dcaa5dffdb5723006790468b3a961938</screen>
+        <screen_data_item_table>x_snc_el_loan</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-09 08:01:20</sys_created_on>
+        <sys_id>50b91a4ddb632300c2e82f94059619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asset.model.name</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_screen_field_50b91a4ddb632300c2e82f94059619e5</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-09 08:01:20</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>

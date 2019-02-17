@@ -8,15 +8,15 @@
             <label>New</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence/>
+            <sequence>0</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:22:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>736cfbabdb5323006790468b3a961905</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:22:03</sys_updated_on>
+            <sys_updated_on>2019-02-07 00:23:23</sys_updated_on>
             <value>-5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -27,15 +27,15 @@
             <label>Requested</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence>0</sequence>
+            <sequence>1</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:11:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b70a3b2bdb5323006790468b3a96197a</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:17:46</sys_updated_on>
+            <sys_updated_on>2019-02-07 00:23:25</sys_updated_on>
             <value>-3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -46,15 +46,15 @@
             <label>Fulfillment</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence>1</sequence>
+            <sequence>2</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:12:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e93a3b2bdb5323006790468b3a9619e9</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:17:47</sys_updated_on>
+            <sys_updated_on>2019-02-07 00:23:27</sys_updated_on>
             <value>-1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -62,18 +62,18 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Collection</label>
+            <label>Awaiting collection</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence>2</sequence>
+            <sequence>3</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:12:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>674afb2bdb5323006790468b3a961909</sys_id>
-            <sys_mod_count>5</sys_mod_count>
+            <sys_mod_count>7</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:18:38</sys_updated_on>
+            <sys_updated_on>2019-02-07 00:23:29</sys_updated_on>
             <value>0</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -84,15 +84,15 @@
             <label>On loan</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence>3</sequence>
+            <sequence>4</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:12:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8f5afb2bdb5323006790468b3a96195c</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:17:49</sys_updated_on>
+            <sys_updated_on>2019-02-07 00:23:30</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -103,16 +103,16 @@
             <label>Returned</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence>4</sequence>
+            <sequence>5</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:13:13</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a26afb2bdb5323006790468b3a9619d7</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:18:58</sys_updated_on>
-            <value>3</value>
+            <sys_updated_on>2019-02-07 00:23:32</sys_updated_on>
+            <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -122,15 +122,15 @@
             <label>Closed</label>
             <language>en</language>
             <name>x_snc_el_loan</name>
-            <sequence>5</sequence>
+            <sequence>6</sequence>
             <sys_created_by>dylan.lindgren</sys_created_by>
             <sys_created_on>2019-02-04 23:13:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>227afb2bdb5323006790468b3a9619dc</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:18:55</sys_updated_on>
+            <sys_updated_on>2019-02-07 00:23:33</sys_updated_on>
             <value>5</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
     <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Borrow a Dictaphone">2e3601bfdb1723006790468b3a961984</sc_cat_item>
+        <sc_cat_item display_value="Dictaphone loan">2e3601bfdb1723006790468b3a961984</sc_cat_item>
         <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
         <sys_created_by>dylan.lindgren</sys_created_by>
         <sys_created_on>2019-02-05 04:44:15</sys_created_on>

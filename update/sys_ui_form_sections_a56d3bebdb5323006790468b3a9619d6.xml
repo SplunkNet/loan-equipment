@@ -24,21 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_el_loan" name="x_snc_el_loan" sys_domain="global" view="Default view">a56d3bebdb5323006790468b3a9619d6</sys_ui_form>
-            <sys_ui_section caption="Length" display_value="Length" name="x_snc_el_loan" sys_domain="global" view="Default view">e96d3bebdb5323006790468b3a9619d4</sys_ui_section>
-            <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-04 23:26:04</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>dylan.lindgren</sys_created_by>
-            <sys_created_on>2019-02-04 23:26:04</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>656d7bebdb5323006790468b3a961959</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_snc_el_loan" name="x_snc_el_loan" sys_domain="global" view="Default view">a56d3bebdb5323006790468b3a9619d6</sys_ui_form>
-            <sys_ui_section caption="Details" display_value="Details" name="x_snc_el_loan" sys_domain="global" view="Default view">696d3bebdb5323006790468b3a9619d5</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_snc_el_loan" sys_domain="global" view="Default view">e96d3bebdb5323006790468b3a9619d4</sys_ui_section>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
             <sys_updated_on>2019-02-04 23:26:04</sys_updated_on>
         </sys_ui_form_section>

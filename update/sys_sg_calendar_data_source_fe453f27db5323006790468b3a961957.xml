@@ -3,7 +3,7 @@
         <data_item display_value="Loan calendar">9e35fb27db5323006790468b3a96190b</data_item>
         <data_source_label>Loan calendar</data_source_label>
         <end_date_field>due_date</end_date_field>
-        <screen display_value="Loan Calendar">c1374423db5f2300c2e82f9405961921</screen>
+        <screen display_value="Calendar">c1374423db5f2300c2e82f9405961921</screen>
         <start_date_field>expected_start</start_date_field>
         <sys_class_name>sys_sg_calendar_data_source</sys_class_name>
         <sys_created_by>dylan.lindgren</sys_created_by>

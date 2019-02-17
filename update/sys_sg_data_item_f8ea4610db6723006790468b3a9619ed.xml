@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Loan equipment</name>
+        <query_condition table="x_snc_el_equipment">^ORDERBYDESCasset<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="asset"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-06 23:01:12</sys_created_on>
+        <sys_id>f8ea4610db6723006790468b3a9619ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loan equipment</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_data_item_f8ea4610db6723006790468b3a9619ed</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-09 07:44:12</sys_updated_on>
+        <table>x_snc_el_equipment</table>
+    </sys_sg_data_item>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
         <application_roles/>
         <available_offline>false</available_offline>
-        <data_item display_value="Active loans">6af6f833db1723006790468b3a9619ad</data_item>
+        <data_item display_value="Loan equipment">f8ea4610db6723006790468b3a9619ed</data_item>
         <description>Loan equipment, plotted on a map</description>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
@@ -17,13 +17,13 @@
         <sys_created_by>dylan.lindgren</sys_created_by>
         <sys_created_on>2019-02-05 06:13:24</sys_created_on>
         <sys_id>dcaa5dffdb5723006790468b3a961938</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Details</sys_name>
         <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
         <sys_policy/>
         <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
         <sys_update_name>sys_sg_details_screen_dcaa5dffdb5723006790468b3a961938</sys_update_name>
         <sys_updated_by>dylan.lindgren</sys_updated_by>
-        <sys_updated_on>2019-02-05 06:15:22</sys_updated_on>
+        <sys_updated_on>2019-02-06 23:03:24</sys_updated_on>
     </sys_sg_details_screen>
 </record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-02-17 22:25:03</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-07 22:25:32</sys_created_on>
+        <sys_id>445cc368db6b23006790468b3a96192e</sys_id>
+        <sys_mod_count>136</sys_mod_count>
+        <sys_name>dcirzVXSgGs:APA91bEhucXw1TlEoFGPMdCsdKzfNCWuEqWLTnptG4xDJ4sEK5a4BM03sB2NVq-E9oXylA-1FYAcXeIWy8KKEa6o9CVrZTzPZaTOgtN-u-cea0mCUCV4G_Jr8HXjE0aSQA6wL-jDnndQ</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_445cc368db6b23006790468b3a96192e</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-17 22:25:03</sys_updated_on>
+        <sys_user_id display_value="Dylan Lindgren">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>dcirzVXSgGs:APA91bEhucXw1TlEoFGPMdCsdKzfNCWuEqWLTnptG4xDJ4sEK5a4BM03sB2NVq-E9oXylA-1FYAcXeIWy8KKEa6o9CVrZTzPZaTOgtN-u-cea0mCUCV4G_Jr8HXjE0aSQA6wL-jDnndQ</token>
+    </sys_push_notif_app_install>
+</record_update>

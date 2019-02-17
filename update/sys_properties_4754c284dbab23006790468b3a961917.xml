@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Loan activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_snc_el_loan_activity.fields</name>
+        <read_roles/>
+        <suffix>x_snc_el</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-06 03:54:12</sys_created_on>
+        <sys_id>4754c284dbab23006790468b3a961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_snc_el_loan_activity.fields</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_properties_4754c284dbab23006790468b3a961917</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-06 03:54:12</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,asset,priority,opened_by,work_notes,comments,*Attachments*,collect_at,start_date,end_date</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=4754c284dbab23006790468b3a961917"/>
+</record_update>

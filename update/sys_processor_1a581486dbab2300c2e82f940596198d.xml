@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_processor">
+    <sys_processor action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <description/>
+        <interactive>false</interactive>
+        <name>Reset Loan Equipment Demo</name>
+        <parameters/>
+        <params_endpoint/>
+        <path>reset</path>
+        <path_endpoint>x_snc_el_reset</path_endpoint>
+        <require_csrf>false</require_csrf>
+        <roles>snc_internal</roles>
+        <script><![CDATA[(function process(g_request, g_response, g_processor) {
+	
+	var demo = new ElDemoStager();
+	demo.reset();
+
+	g_processor.writeOutput("text/plain","Reset Successful!");
+
+})(g_request, g_response, g_processor);]]></script>
+        <sys_class_name>sys_processor</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-12 01:10:46</sys_created_on>
+        <sys_id>1a581486dbab2300c2e82f940596198d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reset Loan Equipment Demo</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_processor_1a581486dbab2300c2e82f940596198d</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-12 03:01:16</sys_updated_on>
+        <type>script</type>
+    </sys_processor>
+</record_update>

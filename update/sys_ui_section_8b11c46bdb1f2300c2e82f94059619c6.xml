@@ -4,55 +4,69 @@
             <element>borrower</element>
             <position>0</position>
             <sys_created_by>dylan.lindgren</sys_created_by>
-            <sys_created_on>2019-02-05 05:07:07</sys_created_on>
-            <sys_id>dd7bc1f3db5723006790468b3a9619cf</sys_id>
+            <sys_created_on>2019-02-06 03:10:28</sys_created_on>
+            <sys_id>165af18cdb6b23006790468b3a96197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-05 05:07:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>1</position>
-            <sys_created_by>dylan.lindgren</sys_created_by>
-            <sys_created_on>2019-02-05 05:07:07</sys_created_on>
-            <sys_id>517bc1f3db5723006790468b3a9619d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
-            <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-05 05:07:07</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>2</position>
-            <sys_created_by>dylan.lindgren</sys_created_by>
-            <sys_created_on>2019-02-05 05:07:07</sys_created_on>
-            <sys_id>d17bc1f3db5723006790468b3a9619d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
-            <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-05 05:07:07</sys_updated_on>
+            <sys_updated_on>2019-02-06 03:10:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>3</position>
+            <position>1</position>
             <sys_created_by>dylan.lindgren</sys_created_by>
-            <sys_created_on>2019-02-05 05:07:07</sys_created_on>
-            <sys_id>557bc1f3db5723006790468b3a9619d0</sys_id>
+            <sys_created_on>2019-02-06 03:10:28</sys_created_on>
+            <sys_id>965af18cdb6b23006790468b3a96197c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
             <sys_updated_by>dylan.lindgren</sys_updated_by>
-            <sys_updated_on>2019-02-05 05:07:07</sys_updated_on>
+            <sys_updated_on>2019-02-06 03:10:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2019-02-06 03:10:28</sys_created_on>
+            <sys_id>1a5af18cdb6b23006790468b3a96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2019-02-06 03:10:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2019-02-06 03:10:28</sys_created_on>
+            <sys_id>9a5af18cdb6b23006790468b3a96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2019-02-06 03:10:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>collect_at_dsp</element>
+            <position>4</position>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2019-02-09 07:14:29</sys_created_on>
+            <sys_id>4afec249db2f23006790468b3a96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_el_loan" sys_domain="global" view="Default view">8b11c46bdb1f2300c2e82f94059619c6</sys_ui_section>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2019-02-09 07:14:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

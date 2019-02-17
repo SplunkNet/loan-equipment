@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Borrow a Dictaphone">2e3601bfdb1723006790468b3a961984</sc_cat_item>
+        <sc_cat_item display_value="Dictaphone loan">2e3601bfdb1723006790468b3a961984</sc_cat_item>
         <sc_category display_value="Loan Equipment">6a96c5bfdb1723006790468b3a961926</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>dylan.lindgren</sys_created_by>

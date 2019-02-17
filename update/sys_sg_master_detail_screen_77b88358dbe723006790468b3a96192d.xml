@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Awaiting fulfillment">46780f18dbe723006790468b3a9619fe</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="thumbs-up">3bb88358dbe723006790468b3a96193b</icon>
+        <name>Awaiting Fulfillment</name>
+        <order>50</order>
+        <parent>e7a559fbdb5723006790468b3a9619e0</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-07 03:31:28</sys_created_on>
+        <sys_id>77b88358dbe723006790468b3a96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting Fulfillment</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_77b88358dbe723006790468b3a96192d</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-07 03:31:28</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_el_type">
+    <x_snc_el_type action="INSERT_OR_UPDATE">
+        <name>Tablet</name>
+        <sys_class_name>x_snc_el_type</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-16 04:20:49</sys_created_on>
+        <sys_id>c15aa557dbaf2300c2e82f94059619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tablet</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>x_snc_el_type_c15aa557dbaf2300c2e82f94059619c2</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-16 04:20:49</sys_updated_on>
+    </x_snc_el_type>
+</record_update>

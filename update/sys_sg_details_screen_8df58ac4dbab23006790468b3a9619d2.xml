@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Awaiting collection">744502c4dbab23006790468b3a9619f2</data_item>
+        <description>Items that are awaiting collection</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="flag">4df54ac4dbab23006790468b3a961947</icon>
+        <item_view display_value="Awaiting Collection detail item view">41f54ac4dbab23006790468b3a9619da</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>8df54ac4dbab23006790468b3a9619dc</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-06 04:01:10</sys_created_on>
+        <sys_id>8df58ac4dbab23006790468b3a9619d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_details_screen_8df58ac4dbab23006790468b3a9619d2</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-06 04:01:16</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

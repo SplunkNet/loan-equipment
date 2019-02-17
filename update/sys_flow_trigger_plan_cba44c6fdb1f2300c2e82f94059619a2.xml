@@ -3,19 +3,19 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"cba44c6fdb1f2300c2e82f94059619a2","name":"plan"}}</plan>
         <plan_id>c124482fdb1f2300c2e82f9405961996</plan_id>
-        <snapshot>a2c53cffdbd323006790468b3a9619a8</snapshot>
+        <snapshot>11a41a18db6723006790468b3a9619e5</snapshot>
         <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>dylan.lindgren</sys_created_by>
         <sys_created_on>2019-02-04 05:19:21</sys_created_on>
         <sys_id>cba44c6fdb1f2300c2e82f94059619a2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>4ba44c6fdb1f2300c2e82f94059619a0</sys_name>
         <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
         <sys_policy/>
         <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
         <sys_update_name>sys_flow_trigger_plan_cba44c6fdb1f2300c2e82f94059619a2</sys_update_name>
         <sys_updated_by>dylan.lindgren</sys_updated_by>
-        <sys_updated_on>2019-02-05 03:31:48</sys_updated_on>
+        <sys_updated_on>2019-02-06 23:42:38</sys_updated_on>
         <trigger display_value="">4ba44c6fdb1f2300c2e82f94059619a0</trigger>
     </sys_flow_trigger_plan>
 </record_update>

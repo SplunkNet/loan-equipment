@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
     <sys_template action="INSERT_OR_UPDATE">
         <active>false</active>
-        <global>false</global>
+        <global>true</global>
         <group/>
         <link_element/>
         <name>Dictaphone loan</name>
@@ -15,17 +15,17 @@
         <sys_created_by>dylan.lindgren</sys_created_by>
         <sys_created_on>2019-02-05 04:44:48</sys_created_on>
         <sys_id>b44641bfdb1723006790468b3a9619cf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Dictaphone loan</sys_name>
         <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
         <sys_policy/>
         <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
         <sys_update_name>sys_template_b44641bfdb1723006790468b3a9619cf</sys_update_name>
         <sys_updated_by>dylan.lindgren</sys_updated_by>
-        <sys_updated_on>2019-02-05 04:44:48</sys_updated_on>
+        <sys_updated_on>2019-02-06 23:08:55</sys_updated_on>
         <table>x_snc_el_loan</table>
         <template>type=5bc4c9bbdb1723006790468b3a961925^EQ</template>
-        <user display_value="Dylan Lindgren">6816f79cc0a8016401c5a33be04be441</user>
+        <user/>
         <view/>
     </sys_template>
 </record_update>

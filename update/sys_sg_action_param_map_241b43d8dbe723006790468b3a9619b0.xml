@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Allocate Equipment">359acb98dbe723006790468b3a9619cc</button>
+        <item_parameter display_value="Asset tag">ca198758dbe723006790468b3a9619d4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-07 03:41:44</sys_created_on>
+        <sys_id>241b43d8dbe723006790468b3a9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ca198758dbe723006790468b3a9619d4</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_241b43d8dbe723006790468b3a9619b0</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-07 03:41:44</sys_updated_on>
+        <ui_parameter display_value="Asset tag">61eacf98dbe723006790468b3a96194f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

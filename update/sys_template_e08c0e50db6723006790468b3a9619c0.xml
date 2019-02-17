@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <global>true</global>
+        <group/>
+        <link_element/>
+        <name>Portable WiFi loan</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Portable WiFi loan</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-06 23:08:16</sys_created_on>
+        <sys_id>e08c0e50db6723006790468b3a9619c0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Portable WiFi loan</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_template_e08c0e50db6723006790468b3a9619c0</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-06 23:09:08</sys_updated_on>
+        <table>x_snc_el_loan</table>
+        <template>type=78d4c9bbdb1723006790468b3a961981^EQ</template>
+        <user/>
+        <view/>
+    </sys_template>
+</record_update>

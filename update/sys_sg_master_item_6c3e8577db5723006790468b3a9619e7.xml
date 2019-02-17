@@ -4,7 +4,7 @@
         <condition_order/>
         <item_view display_value="Active loans item view">47673073db1723006790468b3a9619e3</item_view>
         <name>Loan calendar</name>
-        <screen display_value="Loan Calendar">c1374423db5f2300c2e82f9405961921</screen>
+        <screen display_value="Calendar">c1374423db5f2300c2e82f9405961921</screen>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>dylan.lindgren</sys_created_by>
         <sys_created_on>2019-02-05 05:19:45</sys_created_on>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>ce459a5cdb676300c2e82f9405961917</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_el_loan">
+    <x_snc_el_loan action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <asset display_value="IT1234564 - Apple MacBook Pro 15&quot;">c6abb1ccdb6b23006790468b3a961993</asset>
+        <assigned_to/>
+        <assignment_group/>
+        <borrower display_value="Janet Schaffter">26826bf03710200044e0bfc8bcbe5ddc</borrower>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <collect_at>1970-01-01 00:00:00</collect_at>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date>2019-02-27 13:00:00</due_date>
+        <end_date>2019-02-28</end_date>
+        <escalation>0</escalation>
+        <expected_start>2019-02-06 08:00:00</expected_start>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>LOAN0001053</number>
+        <opened_at>2019-02-06 23:46:52</opened_at>
+        <opened_by display_value="Taro Yamada">718409bbdb1723006790468b3a96190f</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <short_description/>
+        <skills/>
+        <sla_due/>
+        <start_date>2019-02-06</start_date>
+        <state>0</state>
+        <sys_class_name>x_snc_el_loan</sys_class_name>
+        <sys_created_by>taro.yamada</sys_created_by>
+        <sys_created_on>2019-02-06 23:46:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce459a5cdb676300c2e82f9405961917</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-06 23:52:20</sys_updated_on>
+        <time_worked/>
+        <type display_value="Laptop">8b2584afdb1f2300c2e82f940596191d</type>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_el_loan>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2019-02-06 23:52:35</sys_created_on>
+        <sys_id>39a69e58db6723006790468b3a96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOAN0001053</sys_name>
+        <sys_package display_value="Equipment Loans" source="x_snc_el">e67ebb97db1f2300c2e82f9405961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Equipment Loans">e67ebb97db1f2300c2e82f9405961920</sys_scope>
+        <sys_update_name>sys_metadata_link_39a69e58db6723006790468b3a96196c</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2019-02-06 23:52:35</sys_updated_on>
+        <tablename>x_snc_el_loan</tablename>
+    </sys_metadata_link>
+</record_update>
